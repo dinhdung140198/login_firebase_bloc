@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "819284240679",
+    "project_id": "fluttertutorials-5cae5",
+    "storage_bucket": "fluttertutorials-5cae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819284240679:android:a1ed78525c6eeb4c31e102",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819284240679-k9lkahldbfutv77l16nh1ei798m68qd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByzLHU17Em5CzaBxQ0cbDnbuH3Z3SotSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819284240679-k9lkahldbfutv77l16nh1ei798m68qd3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "819284240679-5jie04ub1mvfjuur4lk02i9gtoae4rh9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
